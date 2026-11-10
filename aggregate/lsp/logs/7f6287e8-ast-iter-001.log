@@ -1,0 +1,7 @@
+[2026-11-10T00:54:16Z] === AST ITERATION 1 START | repo=tagliala/coveralls-ruby-reborn sha=7f6287e8 ===
+[2026-11-10T00:54:16Z] [iter=1] PHASE START: ast repo=tagliala/coveralls-ruby-reborn sha=7f6287e8
+[2026-11-10T00:54:16Z] [iter=1] Building AST aggregate chunks
+[2026-11-10T00:54:23Z] [iter=1] AST chunks built count=1 triples=62799
+[2026-11-10T00:54:23Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/7f6287e869f7761d75aa4d78cf91593ec7d8b7d7/.complete
+[2026-11-10T00:54:23Z] [iter=1] PHASE END: ast elapsed_s=7 elapsed_min=0.1
+[2026-11-10T00:54:23Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
