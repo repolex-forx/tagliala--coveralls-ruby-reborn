@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/tagliala/coveralls-ruby-reborn/commit/7f6287e869f7761d75aa4d78cf91593ec7d8b7d7",
       "git:hexsha": "7f6287e869f7761d75aa4d78cf91593ec7d8b7d7",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-10T00:59:34.272192+00:00"
     },
     {
       "@id": "https://repolex.ai/r/tagliala/coveralls-ruby-reborn/commit/35c6e787b3f80c5d7ee48c543b57802c96777530",
